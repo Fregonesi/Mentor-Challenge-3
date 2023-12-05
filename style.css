@@ -1,0 +1,155 @@
+@font-face {
+    font-family: "work sans";
+    src: url(assets/fonts/static/WorkSans-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "work sans";
+    src: url(assets/fonts/static/WorkSans-SemiBold.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "work sans";
+    src: url(assets/fonts/static/WorkSans-Regular.ttf);
+    font-weight: 400;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "work sans";
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+main {
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+
+.container{
+    background-size: contain;
+    background-color: #f9f0ff;
+    width: 1050px;
+    height: 650px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-bg {
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 1050px;
+    height: 650px;
+}
+
+.card {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background-size: contain;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    border-radius: 2%;
+    width: 500px;
+    height: 500px;
+    z-index: 2;
+}
+
+header {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.star {
+    margin-right: 10px;
+    display: flex;
+}
+
+header h1 {
+    font-weight: 700;
+    font-size: 42px;
+    color: 	#2f1533;
+}
+
+legend {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap
+}
+
+legend h6 {
+    font-weight:600;
+    font-size: 16px;
+    color: 	#2f1533;
+    margin-left: 30px;
+    margin-top: 40px;
+    display: block
+}
+
+legend p {
+    max-width: 440px;
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.js-accordion p{
+    display: none;
+}
+
+.js-accordion h6{
+    display: flex;
+    justify-content: space-between;
+}
+
+.js-accordion h6::after {
+    content: " ";
+    background-image: url('assets/images/icon-plus.svg');
+    width: 25px;
+    height: 25px;
+    background-size: cover;
+    position: absolute;
+    transform: translateX(1690%);
+    vertical-align: middle;
+}
+
+.js-accordion h6.ativo::after {
+    background-image: url('assets/images/icon-minus.svg');
+}
+
+.js-accordion p.ativo {
+   display: block;
+   animation: slideDown .5s forwards;
+}
+
+h6:hover{
+    cursor: pointer;
+    color: #e100ff;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+

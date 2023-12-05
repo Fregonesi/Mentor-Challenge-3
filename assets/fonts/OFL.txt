@@ -1,0 +1,93 @@
+Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/works-sans)
+
+Este software de fonte está licenciado sob a licença de fonte SIL Open, versão 1.1.
+Esta licença é copiada abaixo e também está disponível com uma FAQ em:
+http://scripts.sil.org/ofl
+
+
+-----------------------------------------------------------------
+Licença de fonte Sil Open Versão 1.1 - 26 de fevereiro de 2007
+-----------------------------------------------------------------
+
+PREÂMBULO
+Os objetivos da licença de fonte aberta (OFL) devem estimular o mundo todo
+Desenvolvimento de projetos de fontes colaborativos, para apoiar a criação de fontes
+esforços de comunidades acadêmicas e linguísticas, e para fornecer um gratuito e
+estrutura aberta na qual as fontes podem ser compartilhadas e aprimoradas em parceria
+com outros.
+
+O OFL permite que as fontes licenciadas sejam usadas, estudadas, modificadas e
+Redistribuído livremente enquanto não forem vendidos por si mesmos.O
+Fontes, incluindo quaisquer obras derivadas, podem ser agrupadas, incorporadas,
+redistribuído e/ou vendido com qualquer software, desde que qualquer reservado
+Os nomes não são usados por obras derivadas.As fontes e derivados,
+No entanto, não pode ser liberado sob nenhum outro tipo de licença.O
+o requisito para que as fontes permaneçam sob esta licença não se aplica
+a qualquer documento criado usando as fontes ou seus derivados.
+
+Definições
+"Font Software" refere -se ao conjunto de arquivos divulgados pelos direitos autorais
+Titular (s) sob esta licença e claramente marcado como tal.Isso pode
+Inclua arquivos de origem, crie scripts e documentação.
+
+"Nome da fonte reservada" refere -se a qualquer nome especificado como tal após o
+Declaração (s) de direitos autorais.
+
+"Versão original" refere -se à coleção de componentes de software de fontes como
+distribuído pelo (s) detentor (s) de direitos autorais.
+
+"Versão modificada" refere -se a qualquer derivado feito ao adicionar, excluir, excluir,
+ou substituindo - em parte ou no todo - qualquer um dos componentes do
+Versão original, alterando formatos ou portando o software de fontes para um
+novo ambiente.
+
+"Autor" refere -se a qualquer designer, engenheiro, programador, técnico
+escritor ou outra pessoa que contribuiu para o software de fonte.
+
+Permissão e condições
+É concedida permissão, gratuitamente, para qualquer pessoa que obtenha
+Uma cópia do software de fonte, para usar, estudar, copiar, mesclar, incorporar, modificar,
+Redistribuir e vender cópias modificadas e não modificadas da fonte
+Software, sujeito às seguintes condições:
+
+1) Nem o software de fonte nem nenhum de seus componentes individuais,
+Nas versões originais ou modificadas, podem ser vendidas por si só.
+
+2) Versões originais ou modificadas do software de fontes podem ser agrupadas,
+redistribuído e/ou vendido com qualquer software, desde que cada cópia
+Contém o aviso de direitos autorais acima e esta licença.Estes podem ser
+incluído como arquivos de texto independentes, cabeçalhos legíveis por humanos ou
+nos campos de metadados legíveis por máquina apropriados no texto ou
+Arquivos binários, desde que esses campos possam ser facilmente visualizados pelo usuário.
+
+3) Nenhuma versão modificada do software de fonte pode usar a fonte reservada
+Nome (s) a menos que a permissão por escrito explícita seja concedida pelo correspondente
+Detentor dos direitos autorais.Esta restrição se aplica apenas ao nome da fonte primária como
+apresentado aos usuários.
+
+4) o (s) nome (s) do (s) detentor (s) de direitos autorais ou o (s) autor (s) da fonte
+O software não deve ser usado para promover, endossar ou anunciar qualquer
+Versão modificada, exceto para reconhecer a (s) contribuição (s) do
+Titular de direitos autorais e o (s) autor (s) ou com seus explícitos escritos
+permissão.
+
+5) O software de fonte, modificado ou não modificado, em parte ou no todo,
+deve ser distribuído inteiramente sob esta licença e não deve ser
+distribuído sob qualquer outra licença.O requisito para fontes para
+permanecer sob esta licença não se aplica a nenhum documento criado
+usando o software de fonte.
+
+TERMINAÇÃO
+Esta licença se torna nula e sem efeito se alguma das condições acima for
+não conheceu.
+
+ISENÇÃO DE RESPONSABILIDADE
+O software de fonte é fornecido "como está", sem garantia de qualquer tipo,
+Expresso ou implícito, incluindo, entre outros
+Merchantabilidade, condicionamento físico para um propósito específico e não infração
+De direitos autorais, patentes, marca registrada ou outro direito.Em nenhum caso o
+O detentor de direitos autorais é responsável por qualquer reclamação, danos ou outro passivo,
+Incluindo qualquer geral, especial, indireto, incidental ou conseqüente
+Danos, seja em uma ação de contrato, delito ou não, surgindo
+De, fora do uso ou incapacidade de usar o software de fonte ou de
+Outras negociações no software de fonte.
